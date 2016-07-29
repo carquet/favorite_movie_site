@@ -4,15 +4,17 @@ header{
 	width: 100%;
 	background-color: #66ff66;
 	text-align: center;
+	padding-top: 10px;
 }
 
 article {
 	height: 1000px;
 	width: 1000px;
 	margin: auto;
+	position: relative;
+	overflow: auto;
 	background-color: #ff99ff;
 }
-
 
 section {
 	height: 600px;
@@ -20,18 +22,31 @@ section {
 	background-color: #66ff66;	
 }
 .poster {
+	position: absolute;
 	background-color: grey;	
-	margin-left: 100px;
+	margin-left: 25px;
+	margin-top: 17px;
+
 }
 .poster img {
-	width:100%;
+	position:absolute;
+	width:445px;
+	height:605px;
+
 }
 
 .title{
-	margin-left: 670px;
-	background-color: green;
+	margin-left: 520px;
+	margin-top: 15px;
+	padding: 5px;
 }
+
 .info {
+	margin: auto;
+	clear:top;
+	margin-top: 20px; 
+	margin-bottom: 10px;
+	padding: 5px;
 	height: 300px;
 	width: 940px;
 	background-color: #66ff66;
