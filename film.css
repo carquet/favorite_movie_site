@@ -3,6 +3,7 @@ header {
 	width: 100%;
 	height: 100px;
 	background-color: #66ff66;
+	text-align: center;
 }
 article {
 	height: 1000px;
@@ -26,4 +27,5 @@ footer {
 	width: 100%;
 	height: 100px;
 	background-color: #66ff66;
+	text-align: center;
 }
