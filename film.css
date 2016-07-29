@@ -1,6 +1,18 @@
+
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #66ff66;
+}
 article {
 	height: 1000px;
 	width: 1000px;
 	margin: auto;
 	background-color: pink;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+	background-color: #66ff66;
 }
